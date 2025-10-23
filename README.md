@@ -1,8 +1,13 @@
 ## Yet Another Code Lab 👋
 
-没错，就是又一个不按常理出牌的代码小作坊！本人专属的 “野生代码试验田”！
+没错，就是又一个不按常理出牌的代码小作坊！本人专属的 “野生代码试验田”🌱！
 
-这里塞满了我的奇思妙想、没做完的 Bug，还有偶尔灵光一闪整出来的 “烂活” ———— 主打一个放飞自我，开心敲码最重要！欢迎围观～
+这里塞满了我的奇思妙想💡、没做完的 Bug🐞，还有偶尔灵光一闪整出来的 “烂活”🤪
+
+———— 主打一个放飞自我✨，开心敲码最重要！
+
+欢迎围观～ 👀
+
 
 <!--
 **yacodelab/yacodelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
